@@ -6278,7 +6278,9 @@ button.close {
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
-  display: block;
+  display: flex;
+  justify-content: center;
+
 }
 
 .carousel-item-next,
