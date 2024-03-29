@@ -484,7 +484,7 @@ ul.email li i {
 #carouselExampleIndicators .carousel-control-next {
      width: 66px;
      height: 66px;
-     background-color: #3e0bce;
+     background-color: #0099e6;
      color: #fff;
      font-size: 15px;
      opacity: 1;
@@ -540,7 +540,7 @@ ul.email li i {
 
 .class_box {
      border-radius: 40px;
-     background: #007bff;
+     background: #0099e6;
      margin-bottom: 58px;
      transition: ease-in all 0.5s;
      height: 90%;
@@ -567,7 +567,7 @@ ul.email li i {
 }
 
 .blue {
-     background: #007bff;
+     background: #0099e6;
 }
 
 .margi_bottom {
@@ -581,7 +581,7 @@ ul.email li i {
 /** about section **/
 
 .about {
-     background: #337EC2;
+     background: #0099e6;
 
      /* background: #9cc233; */
      background-size: cover;
@@ -621,12 +621,12 @@ ul.email li i {
 
 .about .read_more {
      color: #fff;
-     background: #3e0bce;
+     background: #0099e6;
 }
 
 .about .read_more:hover {
      color: #f0390f;
-     background: #3e0bce;
+     background: #0099e6;
 }
 
 
@@ -709,7 +709,7 @@ ul.email li i {
 
 .testimonial {
      /* background: #3e0bce; */
-     background: #337EC2;
+     background: #0099e6;
      padding: 90px 0;
      margin-top: 90px;
 }
@@ -956,7 +956,7 @@ ul.conta li a {
 }
 
 .subsci_btn:hover {
-     background-color: #3e0bce;
+     background-color: #0099e6;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -1014,7 +1014,7 @@ ul.social_icon li a i {
 
 ul.social_icon li a:hover {
      color: #fff;
-     background: #5326d3;
+     background: #0099e6;
      transition: ease-in all 0.5s;
 }
 
@@ -1137,7 +1137,7 @@ ul.social_icon li a:hover {
 }
 
 .main_form .send_btn:hover {
-     background: #3e0bce;
+     background: #0099e6;
      color: #fff;
      transition: ease-in all 0.5s;
 }
