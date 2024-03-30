@@ -27,7 +27,7 @@
     height: 60px;
     /* border: 2px solid red; */
     /* margin: 0 auto; */
-    margin-left: 490px;
+    /* margin-left: 490px; */
     position: relative;
     left: -50px;
 }
@@ -40,11 +40,17 @@ nav ul {
     list-style: none;
     margin: 4px;
     padding: 0;
+
+
 }
 
 nav ul li {
     float: left;
     position: relative;
+    font-weight: 500;
+    font-size: 15px;
+    /* left: 550px; */
+    right: -540px;
 }
 
 nav ul li a,
@@ -63,8 +69,6 @@ nav ul li a {
     background: transparent;
     color: #FFF;
     text-decoration: none;
-    font-weight: 500;
-    font-size: 15px;
 }
 
 nav ul li a:hover,
@@ -123,19 +127,19 @@ nav ul li ul li a {
 
     .brand {
         position: absolute;
-        padding-left: 20px;
-        float: left;
-        line-height: 55px;
-        text-transform: uppercase;
-        font-size: 1.4em;
-        /* width: 100vh; */
-        /* border: 2px solid green; */
-        display: flex;
-        justify-content: right;
+            padding-left: 20px;
+            float: left;
+            line-height: 55px;
+            text-transform: uppercase;
+            font-size: 1.4em;
+            width: 42vh;
+            /* border: 2px solid green; */
+            display: flex;
+            justify-content: end;
     }
 
     #logo_img {
-        margin-left: 540%;
+        margin-left: 50%;
     }
 
     .nav-mobile {
