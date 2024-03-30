@@ -172,6 +172,10 @@
          }
      }
 
+     #logo_img {
+         margin-left: 700%;
+     }
+
      #navbar-toggle {
          /* border: 2px solid red; */
          position: fixed;
@@ -224,53 +228,6 @@
  #logo_img {
      width: 55px;
      margin-top: 4px;
-     margin-bottom: 0;
+
      border-radius: 50%;
- }
-
-
-
-
- /* ------------------announcement---------------------------- */
-
- section .anouncement {
-
-     left: 0;
-     min-width: 100vh;
-     background-color: #333;
-     color: #fff;
-     padding: 10px;
-     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-     z-index: 1000;
-     /* overflow: hidden; */
- }
-
- section .ticker-scroll {
-     overflow: hidden;
- }
-
- .ticker-scroll ul {
-     list-style: none;
-     padding: 0;
-     margin: 0;
-     display: inline-block;
-     /* Important for horizontal scroll */
-     white-space: nowrap;
-     animation: scroll 28s linear infinite;
- }
-
- .ticker-scroll li {
-     display: inline-block;
-     margin-right: 20px;
-     font-size: 14px;
- }
-
- @keyframes scroll {
-     0% {
-         transform: translateX(100%);
-     }
-
-     100% {
-         transform: translateX(-100%);
-     }
  }
