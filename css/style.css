@@ -743,13 +743,13 @@ ul.email li i {
 
 }
 
-#myCarousel a.carousel-control-prev {
+/* #myCarousel a.carousel-control-prev {
      left: 41%;
 }
 
 #myCarousel a.carousel-control-next {
      right: 44%;
-}
+} */
 
 #myCarousel a.carousel-control-next:focus,
 #myCarousel a.carousel-control-next:hover,
@@ -850,5 +850,3 @@ ul.email li i {
 
 
 /** end testimonial **/
-
-
